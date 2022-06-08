@@ -1,4 +1,4 @@
-![Banner Image](background1.png)
+![Banner Image](background.png)
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a computer engineering student 👨🏻‍💻  🌐.</h3>
 
 <p align="center">
