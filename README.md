@@ -109,14 +109,14 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/afogal1/vscode-portfolio?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/afogal1/vscode-portfolio?style=flat-square"/></td>
       </tr>
-      <tr>
+<!--       <tr>
 	<td><a href="https://github.com/afogal1/driwwwle-v2"><b>Driwwwle</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/afogal1/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/afogal1/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/afogal1/driwwwle-v2?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/afogal1/driwwwle-v2?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/afogal1/driwwwle-v2?label=javascript&style=flat-square"/></td>
-      </tr>
+      </tr> -->
     </tbody>
   </table>
   <br />
