@@ -2,20 +2,20 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a computer engineering student 👨🏻‍💻  🌐.</h3>
 
 <p align="center">
-  <a href="mailto:nitinranganath@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nitinranganath" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://nitinranganath.me" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:alex.r.fogal@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/alex.r.fogal" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://alex.r.fogal.me" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://dev.to/itsnitinr" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://t.me/itsnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://dev.to/afogal1" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://t.me/afogal1" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=itsnitinr&color=red"</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=afogal1&color=red"</p>
 
 ----
 
 <p align="center">An avid and passionate full stack web developer specializing in the <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting projects.</p>
 
-## ⚡ Stuff I Know
+## ⚡ My Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -73,7 +73,7 @@
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsnitinr&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=afogal1&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
   </p>
 </details>
 
@@ -81,8 +81,8 @@
   <summary><b>📈 GitHub Streaks</b></summary>
   <br />
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnitinr&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=itsnitinr&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afogal1&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=afogal1&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
 </details>
 
@@ -102,20 +102,20 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/itsnitinr/vscode-portfolio"><b>VSCode Portfolio</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/vscode-portfolio?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/itsnitinr/vscode-portfolio?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/itsnitinr/vscode-portfolio?style=flat-square"/></td>
+	      <td><a href="https://github.com/afogal1/vscode-portfolio"><b>VSCode Portfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/afogal1/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/afogal1/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/afogal1/vscode-portfolio?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/afogal1/vscode-portfolio?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/afogal1/vscode-portfolio?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/itsnitinr/driwwwle-v2"><b>Driwwwle</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/driwwwle-v2?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/itsnitinr/driwwwle-v2?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/itsnitinr/driwwwle-v2?label=javascript&style=flat-square"/></td>
+	<td><a href="https://github.com/afogal1/driwwwle-v2"><b>Driwwwle</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/afogal1/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/afogal1/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/afogal1/driwwwle-v2?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/afogal1/driwwwle-v2?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/afogal1/driwwwle-v2?label=javascript&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
